@@ -11,7 +11,7 @@ for the QT1070 running and a TouchBerry shield connected to it.
 You may need to install some packages
 
 ```shell
-sudo apt-get install ruby-dev libssl-dev bundler
+sudo apt-get install ruby ruby-dev libssl-dev bundler
 ```
 
 Next do a `bundle install` to install all the required gems.
